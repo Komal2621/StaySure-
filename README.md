@@ -2,7 +2,7 @@
 StaySure: Hotel Booking Analysis System is a data-driven project developed to assist hotel staff in making smarter operational decisions. 
 
 
-StaySure: Hotel Price Prediction & Analysis System – Project Highlights
+
 
 Data Cleaning: Raw booking data was cleaned to handle missing values, inconsistencies, and noise, ensuring high-quality inputs for analysis and model training.
 
